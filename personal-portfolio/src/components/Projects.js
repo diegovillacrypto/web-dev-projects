@@ -69,7 +69,7 @@ export const Projects = () => {
     },
     {
       title: "Sign Documents in Blockchain",
-      description: " I made this project as part of my work in BitsDapps, i build a Smart Contract to sign documents into the Blockchain",
+      description: " I made this project as part of my work in BitsDapps, i built a Smart Contract to sign documents into the Blockchain",
       imgUrl: projImg9,
     },
     {
@@ -82,7 +82,7 @@ export const Projects = () => {
   const projects3 = [
     {
       title: "BNB Martian",
-      description: "I made an event / workshop with UNETI - university to give to the community (+50 students and devs) kwoledge about BNB CHAIN ECOSISTEM. Also i drived technical worshop of Smart Contracts / Solidity",
+      description: "I made an event / workshop with UNETI - university to give to the community (+50 students and devs) kwoledge about BNB CHAIN ECOSISTEM. Also i drove technical worshop of Smart Contracts / Solidity",
       imgUrl: projImg6,
     },
     {
