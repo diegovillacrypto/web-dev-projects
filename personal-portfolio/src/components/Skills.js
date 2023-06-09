@@ -3,6 +3,8 @@ import meter5 from "../assets/img/5.png";
 import meter3 from "../assets/img/3.png";
 import meter4 from "../assets/img/4.png";
 import meter6 from "../assets/img/6.png";
+import meter7 from "../assets/img/AAA.png";
+import meter8 from "../assets/img/BBB.png";
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 import arrow1 from "../assets/img/arrow1.svg";
@@ -58,6 +60,14 @@ export const Skills = () => {
                             <div className="item">
                                 <img src={meter6} alt="Image" />
                                 <h5>Blockchain Tokenization Consulting</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter8} alt="Image" />
+                                <h5>Golang - GETH </h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter7} alt="Image" />
+                                <h5>C# and .Net</h5>
                             </div>
                         </Carousel>
                     </div>
